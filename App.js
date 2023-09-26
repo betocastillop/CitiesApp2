@@ -31,7 +31,7 @@ export default class App extends Component {
     }
 
     // Render - this function renders the screen elements
-    // Returns the Tabs with the different tab screens
+    // Returns the Tabs with the different tab screen options
     render() {
         return (
             <Tabs screenProps={{
