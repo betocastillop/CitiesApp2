@@ -1,6 +1,6 @@
 // Application from "React Native in Action" book
 // New comment
-// Addded again 3rd comment
+// Added again 3rd comment - modified comment
 import React, { Component } from "react";
 import { Platform, StyleSheet, Text, View } from "react-native";
 import Tabs from './src';
