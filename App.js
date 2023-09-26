@@ -30,7 +30,7 @@ export default class App extends Component {
         this.setState({ cities });
     }
 
-    // Render - this function renders the screen
+    // Render - this function renders the screen elements
     render() {
         return (
             <Tabs screenProps={{
