@@ -10,6 +10,7 @@ export default class App extends Component {
         cities: []
     }
 
+    // Adds a City
     addCity = (city) => {
         const cities = this.state.cities;
         cities.push.apply(city);
