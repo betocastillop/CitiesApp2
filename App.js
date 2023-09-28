@@ -17,6 +17,7 @@ export default class App extends Component {
         this.setState({ cities });
     }
 
+    // Adds a City Location
     addLocation = (location, city) => {
         const index = this.state.cities.findIndex( item => {
             return item.id === city.id
