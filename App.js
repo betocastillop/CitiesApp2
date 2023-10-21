@@ -36,6 +36,7 @@ export default class App extends Component {
     // Returns the Tabs with the different tabs
     // otro comentario nuevo cambio
     // otro mas
+    // UNo mas
     render() {
         return (
             <Tabs screenProps={{
